@@ -1,0 +1,1 @@
+[{"type":"number","min":"10","max":"20","hint":"age","question":"What is your name?","required":"1"},{"type":"head","question":"SASTRA","description":""},{"type":"radio","options":{"0":"Choose an option","1":"BCA","2":"B.Sc","3":"M.Sc.","4":"B.E"},"required":false,"question":"Course"}]

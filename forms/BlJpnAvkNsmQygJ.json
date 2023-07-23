@@ -1,0 +1,1 @@
+[{"type":"head","question":"SASTRA","description":"III BCA"},{"type":"head","question":"SASTRA","description":"hello"},{"type":"head","question":"BCA","description":"hello"},{"type":"number","min":"12","max":"90","hint":"Age","question":"Age","required":"1"}]
